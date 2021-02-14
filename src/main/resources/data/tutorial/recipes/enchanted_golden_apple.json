@@ -7,14 +7,14 @@
   ],
   "key": {
     "W": {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:gold_block"
     },
     "R": {
-      "tag": "tutorial:mob_head"
+      "item": "minecraft:apple"
     }
   },
   "result": {
-    "item": "tutorial:golden_mob_head",
+    "item": "minecraft:enchanted_golden_apple",
     "count": 1
   }
 }

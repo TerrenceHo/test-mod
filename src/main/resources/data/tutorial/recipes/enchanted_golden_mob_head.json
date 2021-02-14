@@ -10,7 +10,7 @@
       "item": "minecraft:gold_block"
     },
     "R": {
-      "item": "minecraft:zombie_head"
+      "tag": "tutorial:mob_head"
     }
   },
   "result": {
